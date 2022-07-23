@@ -1,6 +1,6 @@
 token:
   expiration_time: 3640000
-  secret: devtesttestetsttesttesttestetsttesttesttestetsttesttesttestetst
+  secret: devtesttestetsttesttesttestetsttesttesttestetsttesttesttestetstdevtesttestetsttesttesttestetsttesttesttestetsttesttesttestetst
 
 gateway:
   ip: 192.168.0.2
